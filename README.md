@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @s1gnate-sync
+- 👀 I’m interested in using chrome os for software development and self-hosted solutions
